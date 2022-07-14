@@ -1,0 +1,13 @@
+Step 1.
+
+Open Hyper-V > New > Virtual Machine > Next > Virtual Machine Name(Windows Server 2016) > Next > Next(Generation 1 Selected) > 
+StartUp Memory(Make 4GB Atleast) > Next > Next(Create a folder on HardDrive for Virtual HardDrive) > Select Location From Browse and Select That folder >
+Then Make Size 30GB(Atleast) > Next > Select an Opareting System From a Bootable CD/DVD > Select Image File(.iso) and Browse Where the File is > 
+Select That File and Click to Open > Next > Finish.    
+
+Step 2.
+
+From Virtual Machine List Select Windows Server 2016 Right Click and Connect > Click Start > Next(From Windows Setup Menu) > Install Now > 
+Select Standard Evaluation(Desktop Experience) > Next > Next(Accept Term) > Select Custom Install > Next > Wait For Installetion > When Installetion Will
+Complete Then Set Password and Setup proccess will be Completed.
+ 
