@@ -1,0 +1,7 @@
+DHCP scope (Network, DNS, Range of IPs, Reservation)
+
+Open DHCP management console > Right-click IPv4 and click New Scope > Click Next > Provide a name to new scope and 
+click Next > Provide an IP address range (Start IP address and End IP address) and click Next > Add IP addresses to 
+exclude from scope and click Next > Set the lease duration (default is 8 days) and click Next > Choose No, 
+I will configure these options later and click Next > Click Finish > Right-click the newly added scope 
+and click Activate > 
