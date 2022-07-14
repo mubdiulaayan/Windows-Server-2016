@@ -1,0 +1,8 @@
+DHCP Configuration:
+
+Open Server Manager and click Add roles and features > Click Next >  Choose (Role-based or feature-based installation)
+and click Next > Choose (select a server from the server pool) and click Next >  Choose DHCP from server roles > 
+Click Add Features > Click Next > Click Next > Click Next > Click Install > Click (Complete DHCP configuration) >
+Click Next to continue with the DHCP Post-Install Wizard > Click Commit (Choose Skip AD authorization if machine is on workgroup)
+> Click Close 
+
