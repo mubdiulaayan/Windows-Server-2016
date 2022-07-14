@@ -1,0 +1,24 @@
+Group Policy Object
+
+Wallpaper Change For User
+
+Step 1
+
+Tools > Group Policy Management > Select Group Policy Object > Right Click and Select New > Give New GPO Name >
+Ok
+
+Step 2
+
+From New GPO Click Right and Select Edit > User Configuration > Policies > Administrative Templetes > Desktop >
+Desktop > Desktop Wallpaper > Enable > Create a Folder(Do this on C Drive) > Share this Folder >
+Create a Wallpaper and put this wallpaper On shared Folder > Wallpaper Location(Network Path) > 
+Link this GPO on destination OU's
+
+Step 3
+
+Go to Run and Type cmd and hit enter > Type gpupdate /force > hit enter > Wait for complete
+
+Step 4
+
+On Clint PC log in that User who are on the destination OU's > Go to Run and Type cmd and hit enter > 
+Type gpupdate /force > hit enter > Wait for complete.
