@@ -1,0 +1,5 @@
+Delegate Control
+
+Tools > Active directory user and computer > Domain Name > Right click > Delegate Control > Next > Add >
+Find Group for delegate control > Ok > Next > Select any Delegate control option from dropdown list > Check Mark
+> Next > Finish
