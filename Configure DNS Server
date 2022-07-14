@@ -1,0 +1,20 @@
+Configure DNS Server.
+
+Step 1
+
+From Server Manager > Click Add role and feature > Next > Next > Next > Check DNS Server > Next > Install
+
+Step 2
+
+From DNS > Right Click and select DNS Manager > Right click to Server and select configure a DNS server >
+Next > Next > Next > Give Zone Name(select do not allow dynamic updates) > Next > Select No, it should not 
+forward querles > Next > Finish
+
+Step 3
+
+From DNS Manager > Reverse Lookup Zone > Right click and select New Zone > Next > Next > Next > Next >
+Give Network Id(Example: 192.168.3) > Next > Finish
+
+Step 4
+
+From DNS Manager > Forword lookup Zone > Select Zone Name Properties > Zone Transfer > Apply > OK 
