@@ -1,0 +1,20 @@
+Create OU's, User and Group
+
+OU >
+
+From Tools > Select Active Directory Users and Computer > Right click on domain name > New >
+Organizational Unit > Give name > OK
+
+User >
+
+For User > Right click domain name > Select New > User > Give user name and login name > Next > 
+Set Password(Check mark Password never expires) > Next > Finish
+
+Group >
+
+For Group > Right click domain name > select new > Group > Give Group Name > Ok
+
+Add Member to Group >
+
+For Add member to group > click group name > select members > Add > Give name on Enter the object 
+names to select > Check name > OK
