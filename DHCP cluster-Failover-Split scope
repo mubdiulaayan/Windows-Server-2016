@@ -1,0 +1,7 @@
+DHCP cluster/Failover/Split scope
+
+open Server Manager and click Tools > click the DHCP to open the console > Right Click IPv4 and click Configure Failover
+> Click Next > on the Specify the partner server to use for failover page, click Add Server and choose 2nd DHCP Server >
+confirm that 2nd DHCP Server IP address listed in the Partner Server box and click Next > On the Create a new failover 
+relationship box, complete all configuration > confirm the settings and click Finish > 
+
