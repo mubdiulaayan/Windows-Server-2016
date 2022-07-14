@@ -1,0 +1,9 @@
+DHCP authorise
+
+In an open DHCP administration console, right-click the server name and then select Authorize 
+
+Authorize DHCP Server using PowerShell
+
+Get-DhcpServerInDC
+
+Add-DhcpServerInDC -DnsName ".com" -IPAddress "192.168.3.0"
