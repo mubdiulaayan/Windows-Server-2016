@@ -1,0 +1,11 @@
+AD DS Setup.
+
+Add Roles and Features Wizard > Next > Role Based Or Feature based Installation > Next > 
+Select a Server from the server pool > Next > Check Mark(Active Directory Domain Service) >
+Add Features > Next > Next > Next > Install.
+
+Promote to Domain Controller.
+
+From Notification bar > click Promote this Server to a Domain Controller > Add a new Forest(From 
+add a new forest Give a name to Root Domain name) > Next > Give Password > Next > Next > Next > 
+Next > Next > Install > PC will restart and Installation will complete.
