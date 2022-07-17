@@ -1,0 +1,4 @@
+Go to the DNS Manager console, and open the direct search area where the record is to be added > 
+Right-click in the box and click New Host (A or AAAA) > Enter the name (only the prefix)  then 
+the IP address and click on Add a host > Click OK  to close the confirmation window >  Windows 
+leaves the window open to enter another host, click Done to close the window >  The record is added 
