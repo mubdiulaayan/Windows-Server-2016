@@ -1,0 +1,4 @@
+Launch the DNS Console > Secondary Click on Conditional Forwarders, click New Conditional Forwarder
+> Enter the DNS Name of the desired domain to be resolved> Click on Click here to add an IP Address 
+or DNS Name, enter the IP Address of the remote DNS Server, press Enter then Click OK > The DNS 
+Forwarder has been created 
