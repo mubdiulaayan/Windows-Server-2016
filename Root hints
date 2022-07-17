@@ -1,0 +1,3 @@
+Open the DNS server properties > Right click the DNS Server to change the select Properties >
+Open the New Name Server window > Click the Root Hints tab and click and Add button >  
+Add a new root server > Type in a FQDN and click Resolve > OK
