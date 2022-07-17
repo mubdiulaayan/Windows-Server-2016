@@ -1,0 +1,12 @@
+Click on Start button > Click on Server Manager > Click on Add roles and features > Next >
+Keep selected Role-based or feature-based installation and click on Next > Select/Verify 
+the server name and IP address, then click on Next > Active Directory Domain Services" and 
+click the check box > Click on Add Features > Locate DNS Server and click the check box
+> Click on Add Features > Next > Next > Next > Next > Restart the destination server
+automatically if required > Click on Yes > Click on Install > Click on Promote this 
+server to a domain controller > Click on Add a new forest > Type root domain name and click on Next
+Choose appropriate Forest and Domain functional level from drop down menu and type Directory
+Services Restore Mode (DSRM) password > Next > Next > Verify the NetBIOS name assigned to the 
+domain and click on Next > Next > Next > Click on Install
+
+
