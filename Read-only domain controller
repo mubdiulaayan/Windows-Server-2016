@@ -1,0 +1,13 @@
+Read-only domain controller:
+
+> Open Server Manager.
+> On the left pane, click AD DS. On the right-pane, click More in the yellow bar.
+> When the All Servers Task Details window opens, click Promote this server to a domain controller. The Active Directory Domain Services Configuration Wizard starts.
+> On the Deployment Configuration page, with the Add a domain controller to an existing domain already selected, click Next.
+> On the Domain Controllers Options page, select Read only domain controller (RODC). Select the correct site name. Type a Directory Service Restore Mode (DSRM) password in the Password and Confi rm password text boxes. Click Next.
+> On the RODC Options page, click Select in the Delegated administrator account section. When the Select User or Group dialog box opens, type the name of the account to be used as a delegated administrator in the Enter the object names to select text box and click OK. Click Next.
+> On the Additional Options page, click Next.
+> On the Paths page, click Next.
+> On the Review Options page, click Next.
+> On the Prerequisites Check page, click Install.
+> When the installation is complete, restart the domain controller.
