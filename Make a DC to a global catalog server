@@ -1,0 +1,3 @@
+open the Active Directory Sites and Services console. Expand the Sites container until
+find the DC for check > Right-click NTDS Settings and then click Properties > on the General tab, 
+click Global Catalog to activate the role > OK
