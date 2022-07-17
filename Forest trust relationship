@@ -1,0 +1,6 @@
+open Server Manager and click Active Directory domains and trusts > Right click on Domain A
+and click properties > Click Trust and Click New Trust > Click Next to New trust Wizard > 
+Now enter the Domain name of B and click Next > Select Trust Type and click Next > Select 
+Transitivity Trust and click Next > Select Direction of trust, here select Two-way and click Next >
+Now enter the password for trust between two domains and Next > Now trust Selections Completed and 
+click Next > Click Finish
