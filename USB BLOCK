@@ -1,0 +1,18 @@
+USB BLOCK:
+
+1.Click Group policy management
+2.Expand Forest name
+3.Right click Domain name
+4.Creat New GPO
+5.Name(USB BLOCKED)
+6.Right click new gpo name
+7.Click edit
+8. User config:     policy>Administrative template>system-Removeable storege access
+  Computer config:  policy>Administrative template>system-Removeable storege access
+8.Click Removeable storege access:Deny all access
+9.Click enable
+10.In the Group Policy Management console, select your Disable USB Acce ss policy.
+11.In the Security Filtering section, add t he Domain Admins group.
+12.Go to the Delegation tab and click the Advanced in the security settings editor, specify that the domain
+Admins group is not allowed to apply this GPO ( Apply group policy Deny)
+13.Work Finished
