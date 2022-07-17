@@ -1,0 +1,20 @@
+Apply GPO for Desktopimage|:
+
+1.Click Group Policy Management
+2.Expand Forest name
+3.Right click Domain name
+4.Creat New GPO
+5.Name(Wallpaper change for user)
+6.Right click new gpo name
+7.Click edit
+8. User Configuration > Policies > Administrative Templetes > Desktop >
+   Desktop Wallpaper
+9.Enable > Create a Folder(Do this on C Drive) > Share this Folder >
+   Create a Wallpaper and put this wallpaper On shared Folder > Wallpaper Location(Network Path) > 
+   Link this GPO on destination OU's
+10.Go to Run and Type cmd > Type gpupdate /force 
+11.Wait for complete
+12.Clint PC log in that User who are on the destination OU's > Go to Run and Type cmd and hit enter > 
+  Type gpupdate /force > Wait for complete.
+13.Worked finished
+
