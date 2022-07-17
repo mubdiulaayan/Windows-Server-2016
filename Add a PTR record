@@ -1,0 +1,6 @@
+Add a PTR record
+
+Run Server Manager and select [Tools] - [DNS], next right-click the own domain name to show menu
+on the left pane, then select [New Host(A or AAA)...] > Input Hostname and IP address you'd 
+like to add check a box [Create associated pointer (PTR) record] > A new A-record has beed 
+just added 
