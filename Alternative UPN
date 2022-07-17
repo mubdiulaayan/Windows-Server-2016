@@ -1,0 +1,7 @@
+> Log on to domain controller.
+> Open “Active Directory Domains and Trusts”
+> On the left hand side of the new window, right click on “Active Directory Domains and Trusts”, 
+and select “Properties” 
+> Type in new domain suffix in to the “Alternative UPN suffixes” box, 
+and then click “Add”. 
+> Click “Apply” and then close out of the windows.
