@@ -1,0 +1,5 @@
+Run Server Manager and select [Tools] - [DNS], next right-click the own domain name to 
+show menu on the left panel, then select [New Alias (CNAME)...] > Input Alias name and FQDN, 
+and also target Hostname like follows > A new CNAME record has beed just added > Then check 
+with nslookup to resolve the Alias Name 
+
