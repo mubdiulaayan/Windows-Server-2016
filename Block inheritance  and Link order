@@ -1,0 +1,15 @@
+#Block inheritance 
+
+Start the Active Directory Users and Computer snap-in (Start - Programs - Administrative Tools - 
+Active Directory Users and Computers) > Right click on the container  to stop inheriting 
+settings from its parent and select Properties > Select the 'Group Policy' tab > Check the 
+Block Policy inheritance option > Click Apply then OK
+
+#Link order
+
+Open the Group Policy Management console > In the navigation pane, expand Forest: ForestName, 
+expand Domains, and then expand DomainName > Right-click DomainName, and then click Link an 
+Existing GPO > In the Select GPO dialog box, select the GPO that want to deploy, and then click OK
+> The GPO appears in the Linked Group Policy Objects tab > Select a GPO and click the up or
+down arrows to move it.
+
