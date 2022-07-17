@@ -1,0 +1,35 @@
+Folder-ReDirection:
+
+Step:1
+1.Creat OU
+2.Creat user under group
+3.Creat a folder in a (C) drive
+
+Step:2
+1.File & storage device in Dashboard
+2.Share
+3.New share
+4.SMB quick
+5.Type custom path
+6.$ sine in folder share name
+7.Cudtomised permission
+8.Disable inheritance
+9.Remove User
+10.Add then select a principal
+11.Add Group name
+12.Show advanced permission
+13.Mark creat folder and Appened data
+14.Next,Creat policy
+
+Step:3
+Go to GPME
+User configure
+>windows setting
+>Folder re-direction
+>Desktop properties
+>Basic Redirectiom
+>Copy paste root path
+>Apply
+
+Step:4
+>Go to Folder(in c Drive)
