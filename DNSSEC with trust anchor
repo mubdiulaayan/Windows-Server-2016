@@ -1,0 +1,13 @@
+Open Server Manager,  click Tools and open DNS Manager > In the DNS Manager, 
+browse Domain name, then right click domain name, click DNSSEC and then click Sign the Zone >
+In the Zone Signing Wizard interface, click Next > On the Signing options interface, 
+click Customize zone signing parameters, and then click Next > On the Key Master interface, 
+ensure that The DNS server CLOUD-SERVER is selected as the Key Master, and then click Next > Next
+> click Add > click OK > click Next > click Next > click Add > click OK > click Next > click Next 
+> On the Trust Anchors (TAs) interface, check the Enable the distribution of trust anchors for 
+this zone check box, and then click Next > click Next > click Next, and then click Finish >
+In the DNS console, expand Trust Points, then click domain name >  Open Server Manager, 
+click Tools and open Group Policy Management > Next, open Group Policy Management, expand Forest: 
+expand Domains, expand right-click Default Domain Policy, and then click Edit > In the Group Policy
+Management Editor interface, under Computer Configuration, expand Policies, expand Windows Settings,
+and then click Name Resolution Policy 
